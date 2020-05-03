@@ -1,0 +1,6 @@
+Source files for the lecture: Design and Analysis of Information Systems (MAS) Modelowanie i Analiza Systemów informacyjnych (MAS)
+(c) 2019 Mariusz Trzaska
+Feel free to send me remarks: mtrzaska@mtrzaska.com
+
+The archive contains a few folders, each for the particular lecture.
+Java projects should work with IntelliJ Idea. In case of any problems just import the Java files from the 'src' directory to your IDE.
